@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Lin
+### First Name: Bryant 
+### GitHub Username: bryantl50
 
 ---
 #### General Workflow: 
